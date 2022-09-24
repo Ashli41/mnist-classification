@@ -139,16 +139,16 @@ print(x_single_prediction)
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-```
+
 ![image](https://user-images.githubusercontent.com/112484283/191759787-9813cce0-3913-4e0f-99ee-ae3129d1af31.png)
 ![image](https://user-images.githubusercontent.com/112484283/191759847-028e955f-51ba-4c8f-a83b-f10455670fb6.png)
-```
+
 
 ### Classification Report
-```
+
 ![image](https://user-images.githubusercontent.com/112484283/191759970-c7fcf3f3-3756-42da-aaba-6ab0a7a53774.png)
 
-```
+
 
 ### Confusion Matrix
 
