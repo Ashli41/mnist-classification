@@ -12,11 +12,20 @@ Include the neural network model diagram.
 
 ## DESIGN STEPS
 
-### STEP 1:
+### Step 1:
+Start by importing all the necessary libraries. And load the Data into Test sets and Training sets.
 
-### STEP 2:
+### Step 2:
+Then we move to normalization and encoding of the data.
 
-### STEP 3:
+### Step 3:
+The Model is then built using a Conv2D layer, MaxPool2D layer, Flatten layer, and 2 Dense layers of 16 and 10 neurons respectively.
+
+### Step 4:
+The necessary Validating parameters are visualized for inspection.
+
+### Step 5:
+Finally, we pass handwritten digits to the model for prediction.
 
 Write your own steps
 
