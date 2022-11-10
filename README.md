@@ -27,7 +27,7 @@ The necessary Validating parameters are visualized for inspection.
 ### Step 5:
 Finally, we pass handwritten digits to the model for prediction.
 
-Write your own steps
+
 
 ## PROGRAM
 
